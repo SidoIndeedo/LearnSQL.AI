@@ -1,11 +1,11 @@
-# QueryGuru 🧠💬  
+# LeanSQL.AI 🧠💬  
 *Your AI-powered Hinglish-to-SQL learning assistant.*
 
 ---
 
-## 🚀 What is QueryGuru?
+## 🚀 What is LeanSQL.AI?
 
-QueryGuru is an intelligent Hinglish-to-SQL translator designed to **help students and beginners** write and understand SQL queries — even if they're not fluent in English or SQL syntax.
+LeanSQL.AI is an intelligent Hinglish-to-SQL translator designed to **help students and beginners** write and understand SQL queries — even if they're not fluent in English or SQL syntax.
 
 Think of it like having a **smart teaching assistant** that lets you speak your thoughts in casual Hinglish, and guides you toward writing correct, optimized SQL.
 
@@ -23,7 +23,7 @@ Think of it like having a **smart teaching assistant** that lets you speak your 
 
 ## 🎯 Why This Project?
 
-SQL is powerful — but for many students, the **syntax barrier** becomes a blocker. QueryGuru was created to:
+SQL is powerful — but for many students, the **syntax barrier** becomes a blocker. LeanSQL.AI was created to:
 
 - Help students write queries in the language they *think* in  
 - Encourage trial-and-error without fear of syntax errors  
@@ -49,13 +49,3 @@ SQL is powerful — but for many students, the **syntax barrier** becomes a bloc
 - 👥 Multi-language support (beyond Hinglish!)
 
 ---
-
-## 🤝 Open for Collaboration
-
-I'm building this with education in mind — if you're a dev, designer, or educator who wants to contribute or use this tool in your classroom/workspace, feel free to connect.
-
----
-
-## 📫 Let's Connect
-
-> Built by [Sidharth]([https://github.com/sido-indeedo](https://www.linkedin.com/in/sidoindeedo/))  
